@@ -1,0 +1,16 @@
+{
+  "name": "helionogueir-tips-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript Tips",
+  "main": "echo \"Error: no main specified\" && exit 1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Loops": "node Loops/script.js",
+    "ArrowFunctions": "node Loops/ArrowFunctions.js"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Helio Nogueira <helio.nogueir@gmail.com>",
+  "license": "MIT"
+}
