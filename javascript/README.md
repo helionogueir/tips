@@ -17,3 +17,9 @@ npm run Loops
 ```bash
 npm run ArrowFunctions
 ```
+
+## [Event Emitter](/javascript/src/EventEmitter/README.md)
+
+```bash
+npm run EventEmitter
+```

@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "Loops": "node Loops/script.js",
-    "ArrowFunctions": "node ArrowFunctions/script.js"
+    "ArrowFunctions": "node ArrowFunctions/script.js",
+    "EventEmitter": "node EventEmitter/script.js"
   },
   "keywords": [
     "Javascript"
